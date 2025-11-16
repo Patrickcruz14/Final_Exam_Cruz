@@ -1,0 +1,8 @@
+---
+# PostgreSQL Configuration
+postgres_password: "SecurePass123"
+postgres_user: "admin"
+postgres_db: "enterprise_db"
+
+# Message of the Day
+motd_message: "Ansible Managed by patrick"
